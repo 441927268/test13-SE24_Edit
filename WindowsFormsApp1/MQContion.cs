@@ -32,5 +32,14 @@ namespace WindowsFormsApp1
           
         }
 
+        /// <summary>
+        /// Creator:SE24,Date:2020-2-5 14:17:38
+        /// 创建测试方法
+        /// </summary>
+        public void SE24Test()
+        {
+            String Temp1 = "开始";
+        }
+
     }
 }
